@@ -1,5 +1,4 @@
 # Java_Singleton
-# Java_Singleton
 Atividade da disciplina de Padrões de Projetos
 
 
