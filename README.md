@@ -10,7 +10,7 @@ this.config = newConfig;
 Quando usado o método PUT, apenas é atualizado o GET Correspondente ao Resource
 <img src="img/atribuido.png">
 
-<img src="img/atribuido.png">
+<img src="img/atribuido_1.png">
 
 ## Usando métodos Get e Set
 ```
